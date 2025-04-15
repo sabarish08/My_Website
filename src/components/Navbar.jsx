@@ -68,7 +68,8 @@ const Navbar = () => {
                             
                         </div>
                 
-                           
+                           git push -u origin master
+
             </ul>
     </div>
   )
